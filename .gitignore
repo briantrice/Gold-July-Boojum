@@ -1,0 +1,17 @@
+.DS_Store
+*~
+*.bz2
+*.dll
+*.pbx*
+*.perspectivev3
+*.exe
+*.ilk
+*.pdb
+*.o
+*.a
+*.la
+*.so
+.libs/
+tmp/
+*.1.gz
+*.elc
